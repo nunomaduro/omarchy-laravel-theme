@@ -1,31 +1,39 @@
+# Laravel theme for Omarchy
+#
+# Neutrals are the "sand" scale laravel.com uses in dark mode
+# (page #111110, code blocks #222221, muted text #b5b3ad, body text #eeeeec).
+# The accent is Laravel red as served by laravel.com (--color-laravel-red),
+# and bright_red is the logo red from github.com/laravel/art.
+# Syntax colors mirror the code blocks on laravel.com/docs.
+
 mode = "dark"
 
-accent = "#89b4fa"
-selection = "#45475a"
-muted = "#585b70"
+accent = "#f53003"
+selection = "#3b3a37"
+muted = "#62605b"
 
-background = "#1e1e2e"
-dark_background = "#161622"
-darker_background = "#101019"
-lighter_background = "#313244"
+background = "#111110"
+dark_background = "#0c0c0b"
+darker_background = "#080807"
+lighter_background = "#222221"
 
-foreground = "#cdd6f4"
-dark_foreground = "#6c7086"
-light_foreground = "#bac2de"
-bright_foreground = "#cdd6f4"
+foreground = "#dddcd9"
+dark_foreground = "#7c7b74"
+light_foreground = "#b5b3ad"
+bright_foreground = "#eeeeec"
 
-red = "#f38ba8"
-yellow = "#f9e2af"
-orange = "#f6b6ab"
-green = "#a6e3a1"
-cyan = "#94e2d5"
-blue = "#89b4fa"
-magenta = "#f5c2e7"
-brown = "#7b5b55"
+red = "#f53003"
+yellow = "#ffcb6b"
+orange = "#f78c6c"
+green = "#c3e88d"
+cyan = "#89ddff"
+blue = "#82aaff"
+magenta = "#c792ea"
+brown = "#8f6424"
 
-bright_red = "#f38ba8"
-bright_yellow = "#f9e2af"
-bright_green = "#a6e3a1"
-bright_cyan = "#94e2d5"
-bright_blue = "#89b4fa"
-bright_magenta = "#f5c2e7"
+bright_red = "#ff2d20"
+bright_yellow = "#ffcb8b"
+bright_green = "#c3e88d"
+bright_cyan = "#89ddff"
+bright_blue = "#82aaff"
+bright_magenta = "#c792ea"
